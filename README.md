@@ -19,7 +19,7 @@ Este repositorio contiene una implementación simple de un juego de adivinanza d
 
 # Ejecución
 
-Para jugar, simplemente ejecuta el script juegoAdivinar.py en tu entorno de Python:
+Para jugar, simplemente ejecuta el script "juegoAdivinar.py" en tu entorno de Python
 
 
 ¡Buena suerte intentando adivinar el número en el menor número de intentos!
